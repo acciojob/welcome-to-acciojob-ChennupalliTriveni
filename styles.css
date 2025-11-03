@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f8f9fa;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-family: 'Georgia', serif;
+  color: #000;
+}
